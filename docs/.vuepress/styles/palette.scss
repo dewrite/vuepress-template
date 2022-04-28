@@ -1,0 +1,27 @@
+$font-family-fancy: '"Inter var", system-ui, -apple-system, "system-ui", "Segoe UI", Roboto';
+
+$font-family: '"Inter var", system-ui, -apple-system, "system-ui", "Segoe UI", Roboto';
+
+$theme-color: #5e72e4;
+// #11cdef;
+// #2dce89;
+// #f5365c;
+// #fb6340;
+
+
+$text-color: (
+  light: #000000,
+  dark: #ffffff,
+) ;
+
+$bg-color: (
+  light: #fff,
+  dark: #141414,
+) !default;
+
+$bg-color-back: (
+  light: #f8f8f8,
+  dark: #141414,
+);
+
+// 
