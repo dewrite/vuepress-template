@@ -7,7 +7,7 @@ const themeConfig = defineThemeConfig({
   // hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
 
   author: {
-    name: "开发者1",
+    name: " ",
   },
 
   iconPrefix: "iconfont icon-",
@@ -26,7 +26,7 @@ const themeConfig = defineThemeConfig({
   // sidebar
   sidebar: false,
 
-  footer: "Written by 开发者1 | Copyright © 2022 DeWrite.io",
+  footer: "Written by  | Copyright © 2022 DeWrite.io",
   
   copyright: false,
 
@@ -41,7 +41,7 @@ const themeConfig = defineThemeConfig({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime", "Word", "PageView"],
 
   blog: {
-    description: "记录DeWrite的开发历程，分享DW的设计和思考。",
+    description: " ",
     roundAvatar: true,
     medias: {
     },
@@ -96,8 +96,8 @@ const themeConfig = defineThemeConfig({
 
 export default defineHopeConfig({
   lang: "zh-CN",
-  title: "DeWrite开发日志",
-  description: "记录DeWrite的开发历程，分享DW的设计和思考。",
+  title: " ",
+  description: " ",
 
   base: "/",
 
